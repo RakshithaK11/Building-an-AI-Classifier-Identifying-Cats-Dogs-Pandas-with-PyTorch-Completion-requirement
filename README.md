@@ -1,6 +1,6 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch-Completion-requirement
-# Name: AJITH KUMAR A
-# Register number :212223230009
+# Name: RAKSHITHA K
+# Register number :212223110039
 
 ## AIM:
 
