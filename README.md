@@ -1,6 +1,6 @@
 # Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch-Completion-requirement
-# Name: Dharshini
-# Register number :212224230061
+# Name: AJITH KUMAR A
+# Register number :212223230009
 
 ## AIM:
 
